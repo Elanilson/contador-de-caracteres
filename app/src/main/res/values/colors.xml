@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cinza">#CDCDCD</color>
+    <color name="vermelho">#A50505</color>
+    <color name="laranja">#FF5722</color>
+    <color name="AzulCinza500">#34344e</color>
+    <color name="AzulCinza400">#3a415a</color>
+    <color name="AzulCinza300">#566981</color>
+    <color name="AzulCinza200">#89a7b1</color>
+    <color name="AzulCinza100">#cbdad5</color>
+
+</resources>

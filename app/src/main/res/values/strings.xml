@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">contador de caracteres</string>
+    <string name="caracteres">Caracteres</string>
+    <string name="palavras">Palavras</string>
+    <string name="paragrafos">Parágrafos</string>
+    <string name="frases">Frases</string>
+    <string name="ver_mais">Ver mais</string>
+</resources>
